@@ -10,27 +10,27 @@ A restaurant is a place where you can eat a meal and pay for it. In restaurants,
 - Contact
   
  ## Home Page:-
-![Screenshort](./screenshorts/screenshort1.png)
+![Screenshort](./../screenshorts/screenshort1.png)
 
 # Information About Menue Page 
  - Summery Of  Menue page: This is an menu  Page.This page content information about different diffrent Thalis in market or Our Restaurant of Kuber in Rahuri.
 - what Language I have Used : HTML 5 and css.
   
   # Menue Page
-  ![screenshort](./screenshorts/Screenshort3.png)
+  ![Screenshort](./../screenshorts/screenshort3.png)
 
   ## Basic Information About Menus 
   - The Quality of Thali where Best in All over Rahuri and pune.
   - We provide You Best price 
   
   # Contact Page
-    ![screenshort](./screenshorts/Screenshort5.png)
+    ![Screenshort](./../screenshorts/screenshort5.png)
 
     # Information About Contact Page
     - Summery of Contact page:This page content helping for our customer and they contact us very fastly
     -  Language where use:HTML 5 and css.
   ## More Information About Contact Page:-
   1. Hours of operation: This tells customers when they can contact your business.
-2. Phone number and email address: Customers can contact your business directly.
-3. Response time: Let customers know when they should expect a response.
-4. Location: Build trust with customers by showing you're legitimate.
+1. Phone number and email address: Customers can contact your business directly.
+2. Response time: Let customers know when they should expect a response.
+3. Location: Build trust with customers by showing you're legitimate.
