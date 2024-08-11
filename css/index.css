@@ -1,0 +1,72 @@
+body{
+  background-color:   #fef6e4;
+  padding:0px;
+ margin: 0px;
+}
+.navigation{
+  color:#fff;
+    height: 80px;
+    background-color: black;
+    padding-top: 50px;
+    font-size: 33px;
+    border-radius: 10px;
+    margin-top: 0px;
+   
+}
+.navbar{
+  color: #fff;
+}
+.heading{
+text-align: center;
+font-size: 50px;
+color: #001858;
+}
+.image-icon{
+  width: 550px;
+  border-radius: 10px;
+  margin-left: 90px;
+  display: block;
+  border: solid 5px black;
+}
+.header-section{
+  display: flex;
+
+}
+
+.header-description-container{
+  width:800px;
+  margin-right: 80px;
+  margin-left: 220px;
+  
+
+}
+.header-img-container{
+
+  width:40%;
+}
+
+.why-choose-us-heading {
+  margin-top: 50px;
+}
+.why-choose-us-container{
+  display: flex;
+  justify-content: space-around;
+  background-color: #f3d2c1;
+  margin:20px  0px;
+  padding: 20px;
+  box-shadow: 0 0 10px 1px black;
+}
+
+.why-choose-us-card {
+  background-color: #fff;
+  width:170px;
+  padding: 10px;
+  border-radius:5px;
+  margin:10px;
+  box-shadow: 0 0 10px 1px #808080;
+}
+.why-choose-us-img{
+  height:60px;
+  display: block;
+  margin:10px auto;
+}

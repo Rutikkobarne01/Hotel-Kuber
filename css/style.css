@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Sevillana&display=swap');
+
+.dansing-script{
+    font-family: 'Dansing Script', cursive;
+}
+.text-center{
+    text-align: center;
+
+}
+.btn{
+    padding: 10px 30px;
+    border-radius: 50px;
+    border:none;
+    cursor:pointer;
+    color: #001858;
+    text-decoration: none;
+ }
+ .btn-primary{
+    background-color: #f582ae;
+ }
+ .btn-secondary{
+    background-color: #f582ae;
+ }
+ .btn{
+    color: #001858;
+ }
+ .no-underline{
+    text-decoration: none;
+   }
+
+ .btn1{
+   text-align: center;
+ }
+ 
