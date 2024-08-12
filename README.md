@@ -10,7 +10,7 @@ A restaurant is a place where you can eat a meal and pay for it. In restaurants,
 - Contact
   
  ## Home Page:-
-![image](./../screenshorts/screenshort1.png)
+![image](./screenshorts/screenshort1.png)
 
 # Information About Menue Page 
  - Summery Of  Menue page: This is an menu  Page.This page content information about different diffrent Thalis in market or Our Restaurant of Kuber in Rahuri.
@@ -24,7 +24,7 @@ A restaurant is a place where you can eat a meal and pay for it. In restaurants,
   - We provide You Best price 
   
   # Contact Page
-    ![Screenshort](./screenshorts././/screenshort5.png)
+    ![Screenshort](./screenshorts/screenshort5.png)
 
     # Information About Contact Page
     - Summery of Contact page:This page content helping for our customer and they contact us very fastly
